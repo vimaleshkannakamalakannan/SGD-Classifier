@@ -20,9 +20,6 @@ Developed by: Vimalesh kanna MK
 RegisterNumber:  212225230303
 
 /*
-Program to implement the prediction of iris species using SGD Classifier.
-Developed by:THARUN DP
-RegisterNumber:25018717
 # Import required libraries
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
